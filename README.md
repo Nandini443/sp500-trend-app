@@ -1,11 +1,4 @@
 
----
-
-# 📌 2️⃣ Resume Project Section (Professional Version)
-
-Use this in your resume:
-
----
 
 ### 📈 S&P 500 Trend Prediction Web App (LSTM)
 **Python | TensorFlow | Streamlit | GitHub**
@@ -19,22 +12,3 @@ Use this in your resume:
 
 🔗 Live App: https://sp500-trend-app-3ay3slzkbfw5wgaps5zhdz.streamlit.app/  
 🔗 GitHub: https://github.com/Nandini443/sp500-trend-app  
-
----
-
-# 📌 3️⃣ LinkedIn Post (Professional Announcement)
-
-```text
-🚀 Deployed My LSTM-Based Stock Trend Prediction App!
-
-I built and deployed a deep learning web application that predicts the next-period trend (UP/DOWN) of the S&P 500 index.
-
-🔹 Built using TensorFlow (LSTM)
-🔹 Feature engineering with SMA & RSI
-🔹 Deployed using Streamlit Cloud
-🔹 Interactive dashboard with probability metrics
-
-Live App:
-https://sp500-trend-app-3ay3slzkbfw5wgaps5zhdz.streamlit.app/
-
-Excited to continue building AI-driven financial tools! 📈
